@@ -3,6 +3,7 @@ package com.poo.classe;
 public class Autor {
     int autorId;
     String nome;
+    
     public int getAutorId() {
         return autorId;
     }
